@@ -1,0 +1,38 @@
+/*este es un comentario*/
+
+body{background-color: rgb(0, 0, 0);
+    font-size: 19px;
+    color: #ffffffde;
+    
+    font-family: "Sansita Swashed", system-ui;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+h1{color: #f5906b;
+}
+h2{color: crimson;
+}
+h3{color: cadetblue;
+}
+li{color: #beb139
+}
+#toto{color: hsl(0, 0%, 0%);
+}
+
+.selctron{background-color: #000000;
+text-align: center; border-color: #ffffff;border-radius: 10px;border-bottom: 15px;
+}
+.educacion ul li{list-style: none;
+    border-radius: 10px;
+padding: 5px;
+margin: 5px;
+border: 3px;color: #ffffff;
+}
+img{width: 260px;height: 250px;}
+
+h1{color: green;
+}
+
+h1{color: red;
+}
